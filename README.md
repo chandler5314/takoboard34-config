@@ -1,1 +1,0 @@
-# takoboard34-config
